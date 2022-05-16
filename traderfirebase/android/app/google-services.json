@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017278945968",
+    "project_id": "trader-e49f8",
+    "storage_bucket": "trader-e49f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017278945968:android:ba18c1cb3c3f6722e73975",
+        "android_client_info": {
+          "package_name": "com.traderfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017278945968-rsj0gqtknn0vugfq3glumiunlaee68gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGMOjcTjAUEoA7xZeafrWilNL0p0h5x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017278945968-rsj0gqtknn0vugfq3glumiunlaee68gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
